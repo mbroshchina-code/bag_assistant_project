@@ -76,6 +76,33 @@ print(f"  Размер: {info.safetensors.total if info.safetensors else 'неи
 #    Лайков: 219
 #    Теги: transformers, pytorch, tf, jax, pegasus
 
+#Топ-5 моделей для text-generation:
+#
+#  Qwen/Qwen3-0.6B
+#    Скачиваний: 19,010,442
+#    Лайков: 1,268
+#    Теги: transformers, safetensors, qwen3, text-generation, conversational
+#
+#  openai-community/gpt2
+#    Скачиваний: 17,054,818
+#    Лайков: 3,261
+#    Теги: transformers, pytorch, tf, jax, tflite
+#
+#  Qwen/Qwen2.5-1.5B-Instruct
+#    Скачиваний: 14,840,982
+#    Лайков: 711
+#    Теги: transformers, safetensors, qwen2, text-generation, chat
+#
+#  Qwen/Qwen2.5-7B-Instruct
+#    Скачиваний: 13,499,212
+#    Лайков: 1,299
+#    Теги: transformers, safetensors, qwen2, text-generation, chat
+#
+#  Qwen/Qwen3-8B
+#    Скачиваний: 12,815,410
+#    Лайков: 1,103
+#    Теги: transformers, safetensors, qwen3, text-generation, conversational
+
 #==================================================
 #Детали модели Qwen3-1.7B:
 #
@@ -102,4 +129,6 @@ print(f"  Размер: {info.safetensors.total if info.safetensors else 'неи
 #  Лицензия: gemma
 #  Теги: transformers, safetensors, gemma3_text, text-generation, conversational, arxiv:1905.07830, arxiv:1905.10044, arxiv:1911.11641
 #  Размер: 999885952 параметров
+
+
 
