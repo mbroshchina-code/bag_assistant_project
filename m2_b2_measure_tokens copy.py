@@ -1,4 +1,4 @@
-# Здесь Подсчет длины промта
+# Здесь Подсчет длины промта без фью-шотов
 # https://github.com/mbroshchina-code/bag_assistant_project/blob/main/system_promt.py - файл с промтом без фью-шотов
 #  файл с промтом с фью-шотами
 # Результаты прогона тестов с логами - https://github.com/mbroshchina-code/bag_assistant_project/blob/main/m2_b2_promt_testing.py - без фьюшотов;
