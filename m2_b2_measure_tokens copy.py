@@ -1,4 +1,6 @@
-# Slide: tiktoken: считаем токены до отправки
+# https://github.com/mbroshchina-code/bag_assistant_project/blob/main/system_promt.py - файл с промтом
+# промт с фью-шотами
+# Результаты прогона тестов с логами
 
 
 def main() -> None:
